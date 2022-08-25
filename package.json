@@ -1,0 +1,14 @@
+{
+  "name": "swotup",
+  "version": "1.0.0",
+  "description": "swotUP is a simple and effective eLearning app for everyone. \\",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Oreoluwa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

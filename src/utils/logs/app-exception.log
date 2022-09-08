@@ -1,0 +1,192 @@
+[2022-09-07 03:10:30.023 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on undefined'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on undefined'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:10:30.023 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on undefined'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on undefined'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:11:33.305 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on undefined'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on undefined'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:11:33.305 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on undefined'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on undefined'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:13:00.715 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:13:00.715 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:16:03.423 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:25:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:16:03.423 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:25:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:17:35.006 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:17:35.006 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:17:52.838 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:17:52.838 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:18:40.869 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:18:40.869 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:19:13.903 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:19:13.903 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:19:47.329 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:19:47.329 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:20:48.303 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:20:48.303 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:21:20.620 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:21:20.620 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:21:31.022 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-07 03:21:31.022 PM] [31merror[39m: 	[31muncaughtException: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31mTypeError: Cannot create property 'Symbol(level)' on string 'Server Running on 5000'[39m
+[31m    at DerivedLogger.log (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\winston\lib\winston\logger.js:214:20)[39m
+[31m    at Server.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:24:34)[39m
+[31m    at Object.onceWrapper (node:events:641:28)[39m
+[31m    at Server.emit (node:events:527:28)[39m
+[31m    at emitListeningNT (node:net:1406:10)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m

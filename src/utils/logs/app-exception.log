@@ -238,3 +238,392 @@
 [31m    at Server.emit (node:events:527:28)[39m
 [31m    at emitListeningNT (node:net:1406:10)[39m
 [31m    at processTicksAndRejections (node:internal/process/task_queues:82:21)[39m
+[2022-09-09 04:49:31.212 PM] [31merror[39m: 	[31muncaughtException: imgB64Data is not defined[39m
+[31mReferenceError: imgB64Data is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:62:36)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-09 04:49:31.212 PM] [31merror[39m: 	[31muncaughtException: imgB64Data is not defined[39m
+[31mReferenceError: imgB64Data is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:62:36)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-09 04:57:19.131 PM] [31merror[39m: 	[31muncaughtException: imgB64Data is not defined[39m
+[31mReferenceError: imgB64Data is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:49:36)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-09 04:57:19.131 PM] [31merror[39m: 	[31muncaughtException: imgB64Data is not defined[39m
+[31mReferenceError: imgB64Data is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:49:36)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-09 05:14:18.123 PM] [31merror[39m: 	[31munhandledRejection: Cannot read properties of undefined (reading 'match')[39m
+[31mTypeError: Cannot read properties of undefined (reading 'match')[39m
+[31m    at uploadImage (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:56:36)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:144:13)[39m
+[31m    at Route.dispatch (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:114:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at jsonParser (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\body-parser\lib\types\json.js:119:7)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[2022-09-09 05:14:18.123 PM] [31merror[39m: 	[31munhandledRejection: Cannot read properties of undefined (reading 'match')[39m
+[31mTypeError: Cannot read properties of undefined (reading 'match')[39m
+[31m    at uploadImage (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:56:36)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:144:13)[39m
+[31m    at Route.dispatch (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:114:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at jsonParser (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\body-parser\lib\types\json.js:119:7)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[2022-09-09 05:15:27.908 PM] [31merror[39m: 	[31munhandledRejection: Cannot read properties of undefined (reading 'match')[39m
+[31mTypeError: Cannot read properties of undefined (reading 'match')[39m
+[31m    at uploadImage (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:57:36)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:144:13)[39m
+[31m    at Route.dispatch (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:114:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at jsonParser (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\body-parser\lib\types\json.js:119:7)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[2022-09-09 05:15:27.908 PM] [31merror[39m: 	[31munhandledRejection: Cannot read properties of undefined (reading 'match')[39m
+[31mTypeError: Cannot read properties of undefined (reading 'match')[39m
+[31m    at uploadImage (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:57:36)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:144:13)[39m
+[31m    at Route.dispatch (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:114:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at jsonParser (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\body-parser\lib\types\json.js:119:7)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[2022-09-09 05:17:00.239 PM] [31merror[39m: 	[31munhandledRejection: Cannot read properties of undefined (reading 'match')[39m
+[31mTypeError: Cannot read properties of undefined (reading 'match')[39m
+[31m    at uploadImage (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:57:36)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:144:13)[39m
+[31m    at Route.dispatch (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:114:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at jsonParser (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\body-parser\lib\types\json.js:119:7)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[2022-09-09 05:17:00.239 PM] [31merror[39m: 	[31munhandledRejection: Cannot read properties of undefined (reading 'match')[39m
+[31mTypeError: Cannot read properties of undefined (reading 'match')[39m
+[31m    at uploadImage (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:57:36)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:144:13)[39m
+[31m    at Route.dispatch (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:114:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at jsonParser (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\body-parser\lib\types\json.js:119:7)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[2022-09-09 05:17:45.767 PM] [31merror[39m: 	[31munhandledRejection: Cannot read properties of undefined (reading 'match')[39m
+[31mTypeError: Cannot read properties of undefined (reading 'match')[39m
+[31m    at uploadImage (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:57:36)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:144:13)[39m
+[31m    at Route.dispatch (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:114:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at jsonParser (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\body-parser\lib\types\json.js:119:7)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[2022-09-09 05:17:45.767 PM] [31merror[39m: 	[31munhandledRejection: Cannot read properties of undefined (reading 'match')[39m
+[31mTypeError: Cannot read properties of undefined (reading 'match')[39m
+[31m    at uploadImage (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:57:36)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:144:13)[39m
+[31m    at Route.dispatch (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\route.js:114:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at jsonParser (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\body-parser\lib\types\json.js:119:7)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\node_modules\express\lib\router\layer.js:95:5)[39m
+[2022-09-12 07:06:25.333 PM] [31merror[39m: 	[31muncaughtException: array is not defined[39m
+[31mReferenceError: array is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:138:28)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-12 07:06:25.333 PM] [31merror[39m: 	[31muncaughtException: array is not defined[39m
+[31mReferenceError: array is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:138:28)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-12 07:06:42.288 PM] [31merror[39m: 	[31muncaughtException: array is not defined[39m
+[31mReferenceError: array is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:138:28)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-12 07:06:42.288 PM] [31merror[39m: 	[31muncaughtException: array is not defined[39m
+[31mReferenceError: array is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:138:28)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-12 07:07:50.648 PM] [31merror[39m: 	[31muncaughtException: array is not defined[39m
+[31mReferenceError: array is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:135:28)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-12 07:07:50.648 PM] [31merror[39m: 	[31muncaughtException: array is not defined[39m
+[31mReferenceError: array is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:135:28)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-12 07:07:57.007 PM] [31merror[39m: 	[31muncaughtException: array is not defined[39m
+[31mReferenceError: array is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:135:28)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-12 07:07:57.007 PM] [31merror[39m: 	[31muncaughtException: array is not defined[39m
+[31mReferenceError: array is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:135:28)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 08:56:53.304 AM] [31merror[39m: 	[31muncaughtException: upload.any is not a function[39m
+[31mTypeError: upload.any is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:135:28)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 08:56:53.304 AM] [31merror[39m: 	[31muncaughtException: upload.any is not a function[39m
+[31mTypeError: upload.any is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:135:28)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 09:03:41.531 AM] [31merror[39m: 	[31muncaughtException: upload.any is not a function[39m
+[31mTypeError: upload.any is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:152:28)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 09:03:41.531 AM] [31merror[39m: 	[31muncaughtException: upload.any is not a function[39m
+[31mTypeError: upload.any is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:152:28)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 09:03:47.742 AM] [31merror[39m: 	[31muncaughtException: upload.any is not a function[39m
+[31mTypeError: upload.any is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:152:28)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 09:03:47.742 AM] [31merror[39m: 	[31muncaughtException: upload.any is not a function[39m
+[31mTypeError: upload.any is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:152:28)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 09:12:17.902 AM] [31merror[39m: 	[31muncaughtException: upload is not a function[39m
+[31mTypeError: upload is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:154:21)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 09:12:17.902 AM] [31merror[39m: 	[31muncaughtException: upload is not a function[39m
+[31mTypeError: upload is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:154:21)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 09:12:52.168 AM] [31merror[39m: 	[31muncaughtException: upload is not a function[39m
+[31mTypeError: upload is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:154:21)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 09:12:52.168 AM] [31merror[39m: 	[31muncaughtException: upload is not a function[39m
+[31mTypeError: upload is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:154:21)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 09:13:57.897 AM] [31merror[39m: 	[31muncaughtException: upload is not a function[39m
+[31mTypeError: upload is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:154:21)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 09:14:14.566 AM] [31merror[39m: 	[31muncaughtException: upload is not a function[39m
+[31mTypeError: upload is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:154:21)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 09:14:41.925 AM] [31merror[39m: 	[31muncaughtException: upload is not a function[39m
+[31mTypeError: upload is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:154:21)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 09:14:56.771 AM] [31merror[39m: 	[31muncaughtException: upload is not a function[39m
+[31mTypeError: upload is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:154:21)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 09:16:42.756 AM] [31merror[39m: 	[31muncaughtException: upload is not a function[39m
+[31mTypeError: upload is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:154:21)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[2022-09-13 09:24:44.889 AM] [31merror[39m: 	[31muncaughtException: Cannot find module './'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js[39m
+[31mError: Cannot find module './'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:778:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:102:18)[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:102:14)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[2022-09-13 09:24:48.956 AM] [31merror[39m: 	[31muncaughtException: Cannot find module './'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js[39m
+[31mError: Cannot find module './'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:778:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:102:18)[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js:102:14)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[2022-09-13 09:24:57.186 AM] [31merror[39m: 	[31muncaughtException: Cannot find module 'mongoose'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\fileSchema.js[39m
+[31m- C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js[39m
+[31mError: Cannot find module 'mongoose'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\fileSchema.js[39m
+[31m- C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\app.js[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:778:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:102:18)[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\Documents\Codes\Personal\Web\JavaScript\Node\Express\SQL\swotup\src\fileSchema.js:1:18)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1105:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m

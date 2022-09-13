@@ -16,9 +16,7 @@ const logger = winston.createLogger({
   level: process.env.LOG_LEVEL || 'info',
   format: combine(
     colorize({ all: true }),
-    timestamp({
-      format: 'YYYY-MM-DD hh:mm:ss.SSS A',
-    }),
+    timestamp({ format: 'YYYY-MM-DD hh:mm:ss.SSS A',}),
     align(),
     printf((info) => `[${info.timestamp}] ${info.level}: ${info.message}`)
   ),
@@ -41,10 +39,10 @@ const logger = winston.createLogger({
   ],
   rejectionHandlers: [
     new winston.transports.File({
-      filename: path.join(__dirname, "./app-exception.log"),
+      filename: path.join(__dirname, "./app-rejection.log"),
     }),
   ],
-  exitOnError: false,
+  exitOnError: true,
 });
 
 if (process.env.NODE_ENV !== "production") {
